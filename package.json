@@ -8,6 +8,14 @@
   ],
   "author": "swcleo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swcleo/custom-assets-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/swcleo/custom-assets-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/swcleo/custom-assets-webpack-plugin#readme",
   "peerDependencies": {
     "webpack": "^4.0.0"
   },

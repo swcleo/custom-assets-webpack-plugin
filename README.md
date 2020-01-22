@@ -23,9 +23,9 @@ module.exports = {
     new CustomAssetsWebpackPlugin({
         filename: 'assets.json',
         content: JSON.stringify({
-           res: [
-               'assets/jquery.js'
-           ]
+           res: {
+               jquery: 'assets/jquery.js'
+           }
         })
     })
   ]
