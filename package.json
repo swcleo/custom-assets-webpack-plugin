@@ -1,0 +1,17 @@
+{
+  "name": "custom-assets-webpack-plugin",
+  "version": "0.0.1",
+  "description": "webpack plugin for custom assets files.",
+  "main": "index.js",
+  "keywords": [
+    "webpack"
+  ],
+  "author": "swcleo",
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "^4.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
